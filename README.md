@@ -46,3 +46,4 @@ ScreenShot
 
 [pygame]: http://www.pygame.org
 [pipenv]: https://pipenv.readthedocs.io/en/latest/
+I am learning Python myself, so I may occasionally make mistakes.  https://github.com/sourabhv/FlapPyBird
